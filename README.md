@@ -84,5 +84,5 @@ Pull requests are welcome. Please ensure new features are tested before submitti
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or issues, please reach out to [Denis M. Putnam](mailto:denis@example.com).
+For any questions or issues, please reach out to [Denis M. Putnam](mailto:denisputnam@gmail.com).
 
