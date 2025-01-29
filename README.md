@@ -3,6 +3,9 @@
 ## Overview
 MySite is a Django-based blog project that allows users to create, edit, and delete posts. The application includes authentication, a rich text editor, and a user-friendly interface for managing blog content.
 
+## Credits
+Jose Portilla, Pierian Training.
+
 ## Features
 - User authentication (Login, Logout, Signup)
 - Create, read, update, and delete (CRUD) blog posts
