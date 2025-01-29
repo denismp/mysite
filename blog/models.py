@@ -32,7 +32,7 @@ class Post(models.Model):
         Returns:
             List[models.CharField]: A list of approved comments.
         """
-        return self.commments.filter(approved_comment=True)
+        return self.comments.filter(approved_comment=True)
 
     def get_absolute_url(self) -> str:
         """Get the url to be redirected to.
